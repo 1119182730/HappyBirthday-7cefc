@@ -24,7 +24,7 @@
   "fonts": [
     {
       "name": "Ma Shan Zheng",
-      "path": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/mashanzheng/MaShanZheng-Regular.ttf"
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
     }
   ]
 }
